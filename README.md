@@ -44,10 +44,5 @@ http://netadm.iss.tokushima-u.ac.jp/soft/2024/2nd/game.html
 - 大学主催のコンテストで総合優勝を達成し、ホームページに掲載されました。
 - インタビューと紹介動画が掲載されています。
 
-
-### 📊 ポートフォリオ最適化（Excel Solver）
-- 現実の株式データを用いた分散投資のシミュレーション
-- PythonとExcelを連携して分析
-
 ## 📫 Contact
 - Email: nagich0609@gmail.com
